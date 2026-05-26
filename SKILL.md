@@ -2,7 +2,7 @@
 name: frappe-dev
 description: >-
 Builds full-stack Frappe Framework applications end-to-end. 
-Use this skill any time the user mentions: creating or modifying a DocType, 
+Use this skill any time the user mentions creating or modifying a DocType, 
 writing a controller or lifecycle hook, adding a whitelisted API, setting up
 a new Frappe app or bench site, building a desk form or list view, creating
 portal pages, writing background jobs or scheduled tasks, managing permissions
